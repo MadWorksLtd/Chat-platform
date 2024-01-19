@@ -3,10 +3,10 @@ let client = AgoraRTC.createClient({mode:'rtc', codec:"vp8"})
 
 //#2
 let config = {
-    appid:null,
-    token:null,
+       appid:'8ecd837c903f43839d6e058d30fc21b9',
+    token:'0068ecd837c903f43839d6e058d30fc21b9IAC1M1R5fqBK21Hk6JgxPq+Kr6UAJBZKJxO3t29zXvBaa0LO6GwAAAAAEABumw/wmiRnYQEAAQCcJGdh',
     uid:null,
-    channel:null,
+    channel:'dennisivy',
 }
 
 //#3 - Setting tracks for when user joins
